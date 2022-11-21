@@ -53,8 +53,6 @@ public class UserService {
 			throw new ResourceNotFoundException(id);
 		}
 		
-	
-		
 	}
 
 	private void updateData(User entity, User obj) {
